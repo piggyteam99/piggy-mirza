@@ -6,7 +6,7 @@ Piggy Pro Manager is an advanced and automated bash script designed to install, 
 
 Copy and paste the following command into your terminal to start the manager:
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/piggyteam99/piggy-mirza/main/piggy.sh)
+bash <(curl -s https://raw.githubusercontent.com/piggyteam99/piggy-mirza/main/piggy.sh)```
 
 
 ✨ Features
