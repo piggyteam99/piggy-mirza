@@ -5,9 +5,10 @@ Piggy Pro Manager is an advanced and automated bash script designed to install, 
 🚀 Quick Installation
 
 Copy and paste the following command into your terminal to start the manager:
-```bash
-bash <(curl -s https://raw.githubusercontent.com/piggyteam99/piggy-mirza/main/piggy.sh)```
 
+```bash
+bash <(curl -s https://raw.githubusercontent.com/piggyteam99/piggy-mirza/main/piggy.sh)
+```
 
 ✨ Features
 
@@ -38,4 +39,3 @@ Webhook Status: Checks if the bot is connected to Telegram.
 Show Database Password: Displays the saved database credentials.
 
 Update Piggy Script: Updates this manager script to the latest version.
-
